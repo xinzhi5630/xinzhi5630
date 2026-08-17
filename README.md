@@ -15,8 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--循环打字特效-->
-<h1 align="center"> <a href="https://github.com/xinzhi5630/"> <img src="https://avatars.githubusercontent.com/u/307841337?s=60&v=4;Hello World!&center=true&size=27"> </a> </h1>
+<!-- 居中打字/头像特效 -->
+<div align="center">
+  <a href="https://github.com">
+    <img src="https://githubusercontent.com" alt="Avatar">
+  </a>
+</div>
 
- <!--统计卡片-->
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<!-- 统计卡片 -->
+<div align="center">
+  <img height="137px" src="https://vercel.app" alt="GitHub Stats" />
+</div>
+
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<!-- 注意：使用此组件前，请确保已在你的仓库配置了自动生成该 SVG 的 GitHub Actions -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+    <img alt="github-snake" src="https://githubusercontent.com" />
+  </picture>
+</div>
